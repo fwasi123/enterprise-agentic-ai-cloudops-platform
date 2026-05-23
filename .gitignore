@@ -1,0 +1,41 @@
+# Python
+
+venv/
+
+__pycache__/
+
+*.pyc
+
+
+# Local environment
+
+.azure/
+
+.cache/
+
+.ssh/
+
+.local/
+
+.bash_history
+
+.bash_logout
+
+.bashrc
+
+.gitconfig
+
+.profile
+
+.python_history
+
+.sudo_as_admin_successful
+
+
+# OS/editor
+
+.DS_Store
+
+.vscode/
+
+.idea/
