@@ -1,13 +1,14 @@
-# Azure Agentic AI Lab
+# Ennterprise Agentic AI CloudOps Platform
 
 
 ## Overview
 
+Enterprise-grade Agentic AI platform built on Microsoft Azure Virtual Machines using Python-based autonomous agents.
 
-This project demonstrates autonomous AI agents running on Microsoft Azure Virtual Machines using Python.
+This project demonstrates AI-driven operational automation, incident triage, memory-enabled agents, and intelligent cloud troubleshooting workflows for enterprise environments.
 
 
-The lab includes:
+Key Capabilities
 
 
 - Incident triage agents
